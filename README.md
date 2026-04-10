@@ -34,10 +34,45 @@ Check it out here --> https://github.com/The-Innovators-390/TheInnovators/wiki
 - **Other:** Agile collaboration, leadership, communication, requirements writing, usability analysis
 
 ## Featured Projects
-- Campus Guide App - Mini Capstone Project
-- Melodex - a UI/UX Research Project
-- BestBudgetApp (Product Management Hackathon)
+
+### Campus Guide App – Mini Capstone Project
+🔗 https://github.com/The-Innovators-390/TheInnovators/wiki
+
+### Melodex – UI/UX Research Project (Current)
+🔗 https://github.com/reemaaboudraz/Melodex
+
+- Exploring how feature-heavy music apps affect usability, cognitive load, and the listening experience
+- Designing a mobile app experience inspired by nostalgic interfaces and intentional listening habits
+- Focused on UI/UX research, interaction design, and creating a more usable and enjoyable product experience
+
+### MedSafe – UI/UX Case Study for Chronic Care
+- Conducted market and user research on medication management solutions to identify feature gaps and patient needs
+- Translated research into journey maps, sketches, wireframes, storyboards, and interactive prototypes
+- Focused on designing a more usable, supportive, and research-backed chronic care experience
+
+**🔗Links:**
+- Figma Prototype: [https://www.figma.com/community/file/1607143626858451507]
+- Demo Accounts: 
+To be able to view the full functionality of the application and discover how different patient’s needs are taken care of, use the following Log In information:
+  1) Abdullah Azizi
+Phone Number: (514)613-8889
+PIN: 1007
+  2) Maya Kareem
+Phone Number: (514)221-1226
+PIN: 2215
+  3) Timo, lab tech
+Employee ID: 123456
+PIN: 0000
+  4)Yuki Nguyen, Pharm
+Employee ID: 456789
+PIN: 0001
+
+- Full Research PDF: [Add link here]
+
+## Other Projects
+- BestBudgetApp (Product Management Hackathon) – 🔗 https://github.com/Gibraltar-47/BestBudgetApp
 - Football Data Pipeline & Forecasting Tool
+
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aboudraz-reema/
