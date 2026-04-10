@@ -63,7 +63,7 @@ PIN: 2215
   3) Timo, lab tech
 Employee ID: 123456
 PIN: 0000
-  4)Yuki Nguyen, Pharm
+  4) Yuki Nguyen, Pharm
 Employee ID: 456789
 PIN: 0001
 
