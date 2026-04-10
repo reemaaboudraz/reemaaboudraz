@@ -67,7 +67,8 @@ PIN: 0000
 Employee ID: 456789
 PIN: 0001
 
-- Full Research PDF: [Add link here]
+- Full Research PDF: [https://github.com/reemaaboudraz/reemaaboudraz/blob/main/documents/medsafe_research_report.pdf]
+- Medium: [https://medium.com/@reemadraz005/medsafe-your-medication-managed-safely-b4b76410f4a4]
 
 ## Other Projects
 - BestBudgetApp (Product Management Hackathon) – 🔗 https://github.com/Gibraltar-47/BestBudgetApp
@@ -75,5 +76,5 @@ PIN: 0001
 
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/aboudraz-reema/
+- LinkedIn: [https://www.linkedin.com/in/aboudraz-reema/]
 - E-mail: reemadraz005@gmail.com
