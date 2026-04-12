@@ -72,7 +72,7 @@ PIN: 0001
 
 ## Other Projects
 - iBudget (Product Management Hackathon) – 🔗 https://github.com/Gibraltar-47/BestBudgetApp
-- Football Data Pipeline & Forecasting Tool
+- Football Data Pipeline & Forecasting Tool - 🔗 https://github.com/reemaaboudraz/Football-Data-Management-Database
 
 
 ## Connect With Me
