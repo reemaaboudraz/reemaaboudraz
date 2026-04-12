@@ -24,7 +24,7 @@ Check it out here --> https://github.com/The-Innovators-390/TheInnovators/wiki
 ## About Me
 - First-generation Software Engineering student
 - Interested in project coordination and management, product thinking and tech consultancy
-- Independent makeup artist
+- Independent Makeup Artist
 
 
 ## Skills
@@ -54,16 +54,16 @@ Check it out here --> https://github.com/The-Innovators-390/TheInnovators/wiki
 - Figma Prototype: [https://www.figma.com/community/file/1607143626858451507]
 - Demo Accounts: 
 To be able to view the full functionality of the application and discover how different patient’s needs are taken care of, use the following Log In information:
-  1) Abdullah Azizi
+  1) Abdullah Azizi - 
 Phone Number: (514)613-8889
 PIN: 1007
-  2) Maya Kareem
+  2) Maya Kareem - 
 Phone Number: (514)221-1226
 PIN: 2215
-  3) Timo, lab tech
+  3) Timo, lab tech - 
 Employee ID: 123456
 PIN: 0000
-  4) Yuki Nguyen, Pharm
+  4) Yuki Nguyen, Pharm - 
 Employee ID: 456789
 PIN: 0001
 
@@ -71,7 +71,7 @@ PIN: 0001
 - Medium: [https://medium.com/@reemadraz005/medsafe-your-medication-managed-safely-b4b76410f4a4]
 
 ## Other Projects
-- BestBudgetApp (Product Management Hackathon) – 🔗 https://github.com/Gibraltar-47/BestBudgetApp
+- iBudget (Product Management Hackathon) – 🔗 https://github.com/Gibraltar-47/BestBudgetApp
 - Football Data Pipeline & Forecasting Tool
 
 
