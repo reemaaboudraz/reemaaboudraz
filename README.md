@@ -23,7 +23,7 @@ I’m currently working on a campus guide app where I lead an 11-member team in 
 Check it out here --> https://github.com/The-Innovators-390/TheInnovators/wiki 
 ## About Me
 - First-generation Software Engineering student
-- Interested in project coordination and management, product thinking and tech consultancy
+- Interested in project coordination and management, product thinking, machine learning and tech consultancy
 - Independent Makeup Artist
 
 
